@@ -1,2 +1,4 @@
 # shiva-
-This is my first Git Repository.Author -shivaji Patel 
+This is my first Git Repository.
+<br>
+Author-shivaji Patel 
