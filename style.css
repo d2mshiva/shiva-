@@ -30,7 +30,7 @@
     width: 18vmin;
     border-radius: 1vmin;
     border: none;
-    box-shadow: 0 0 1rem rgba(0,0,0,0.3);
+    box-shadow: 0 0 1rem rgba(3, 71, 87, 0.3);
     font-size: 8vmin;
     color: #b0413e; 
     background-color:aquamarine
@@ -40,25 +40,25 @@
     padding:0.85rem;
     font-size: 1.25rem;
     background-color: #07745e;
-    color: #b0413e;
+    color: #050100;
     border-radius: 0.85rem;
     border-radius: none;
 
 }
 
 #new-btn{
-     padding:0.85;
+     padding:1rem;
     font-size: 1.25rem;
-    background-color: #07745e;
+    background-color: #07836a;
     color: #b0413e;
-    border-radius: 0.85rem;
+    border-radius: 10rem;
     border-radius: none;
 
 }
 
 #msg {
-    color:#b0413e;
-    font-size:4vmin;
+    color:#b03e57;
+    font-size:5vmin;
 }
 
    .msg-container {
@@ -67,7 +67,7 @@
     justify-content: centre;
     align-items: centre;
     flex-direction: column;
-    gap: 4vmin;
+    gap: 7vmin;
 }
 
 .hide {
